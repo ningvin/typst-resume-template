@@ -10,9 +10,9 @@ A simple resume template for [typst](https://github.com/typst/typst).
 ## Getting Started
 
 First clone or download this repository. Then either:
-1. Upload the files in this repository into a project inside the online [typst app](https://typst.app/) (without the `preview` folder).
-2. Install typst on your local machine as described [here](https://github.com/typst/typst#install-and-use). Afterwards, you have to invoke typst to convert a `.typ` file to pdf, e.g. like so: `typst example-1.typ`
-3. Open the repository in VS Code and install the [typst-lsp](https://github.com/nvarner/typst-lsp) extension.
+- Upload the files in this repository into a project inside the online [typst app](https://typst.app/) (without the `preview` folder).
+- Install typst on your local machine as described [here](https://github.com/typst/typst#install-and-use). Afterwards, you have to invoke typst to convert a `.typ` file to pdf, e.g. like so: `typst example-1.typ`
+- Open the repository in VS Code and install the [typst-lsp](https://github.com/nvarner/typst-lsp) extension.
 
 When using typst locally, you need to ensure that the fonts used in your document are installed on your machine. The default font used in this template is [*Roboto*](https://fonts.google.com/specimen/Roboto), but you can easily change that.
 
